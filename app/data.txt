@@ -1,0 +1,3 @@
+Ders: Ders Kodu: 20101, Ders Adı: Bilgisayar Programcılığı, Dönem: Bahar Dönemi, Öğretim Görevlisi: Refik Taanju Sirmen
+Öğrenci: Öğrenci No: 20210108019, Ad: Fatmanur, Soyad: Günlemiş, Bölüm: Bilgisayar Programcılığı, Alınan Ders: Ders Kodu: 20101, Ders Adı: Bilgisayar Programcılığı, Dönem: Bahar Dönemi, Öğretim Görevlisi: Refik Taanju Sirmen
+Öğretim Üyesi: Öğretmen No: 20255656989, Ad: Refik Tanju, Soyad: Sirmen, Bölüm: Bilgisayar Programcılığı, Verdiği Ders: Ders Kodu: 20101, Ders Adı: Bilgisayar Programcılığı, Dönem: Bahar Dönemi, Öğretim Görevlisi: Refik Taanju Sirmen
